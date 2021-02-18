@@ -1,3 +1,3 @@
 ### Hi Marshal here 👋
 
-![](https://github-readme-stats.vercel.app/api?username=Marshal&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=Marshal7cc&theme=radical)
